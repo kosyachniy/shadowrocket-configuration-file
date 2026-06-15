@@ -1,0 +1,28 @@
+# NAME: proxy_custom_extended
+# UPDATED: 2026-06-16
+
+# openai
+DOMAIN-SUFFIX,oaiusercontent.com
+
+# stripe
+DOMAIN-SUFFIX,stripe.com
+
+# gitlab
+DOMAIN-SUFFIX,gitlab.com
+
+# linear
+DOMAIN-SUFFIX,linear.app
+
+# llm
+DOMAIN-SUFFIX,arena.ai
+DOMAIN-SUFFIX,sleek.design
+DOMAIN-SUFFIX,karpathytalk.com
+DOMAIN-SUFFIX,glam.ai
+DOMAIN-SUFFIX,getglam.app
+
+# proptech
+DOMAIN-SUFFIX,beds24.com
+
+# chill services
+DOMAIN-SUFFIX,aculca.com
+DOMAIN-SUFFIX,chill.services
