@@ -1,6 +1,10 @@
 # NAME: domains_custom_extended
 # UPDATED: 2026-06-16
 
+# google
+DOMAIN-SUFFIX,meet.google.com
+DOMAIN-SUFFIX,drive.google.com
+
 # openai
 DOMAIN-SUFFIX,oaiusercontent.com
 
@@ -22,6 +26,7 @@ DOMAIN-SUFFIX,getglam.app
 
 # proptech
 DOMAIN-SUFFIX,beds24.com
+DOMAIN-SUFFIX,pricelabs.co
 
 # chill services
 DOMAIN-SUFFIX,aculca.com
