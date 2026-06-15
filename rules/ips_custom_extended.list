@@ -1,0 +1,7 @@
+# NAME: ips_custom_extended
+# UPDATED: 2026-06-16
+
+# chill services
+IP-CIDR,165.227.131.96/32
+IP-CIDR,207.154.208.129/32
+IP-CIDR,46.101.202.142/32
