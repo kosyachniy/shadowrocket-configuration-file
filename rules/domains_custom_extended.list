@@ -4,6 +4,9 @@
 # google
 DOMAIN-SUFFIX,meet.google.com
 DOMAIN-SUFFIX,drive.google.com
+DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleapis.com
 
 # openai
 DOMAIN-SUFFIX,oaiusercontent.com
@@ -23,6 +26,12 @@ DOMAIN-SUFFIX,sleek.design
 DOMAIN-SUFFIX,karpathytalk.com
 DOMAIN-SUFFIX,glam.ai
 DOMAIN-SUFFIX,getglam.app
+
+# music
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,cookielaw.org
 
 # proptech
 DOMAIN-SUFFIX,beds24.com
