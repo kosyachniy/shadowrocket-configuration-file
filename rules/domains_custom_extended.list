@@ -8,8 +8,13 @@ DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleapis.com
 
+# apple
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,xp.apple.com
+
 # openai
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatic.com
 
 # stripe
 DOMAIN-SUFFIX,stripe.com
