@@ -7,6 +7,15 @@ DOMAIN-SUFFIX,drive.google.com
 DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,clients1.google.com
+DOMAIN-SUFFIX,clients2.google.com
+DOMAIN-SUFFIX,clients3.google.com
+DOMAIN-SUFFIX,clients4.google.com
+DOMAIN-SUFFIX,clients5.google.com
+DOMAIN-SUFFIX,clients6.google.com
+DOMAIN-SUFFIX,clients7.google.com
+DOMAIN-SUFFIX,clients8.google.com
+DOMAIN-SUFFIX,clients9.google.com
 
 # apple
 DOMAIN-SUFFIX,apps.apple.com
@@ -37,6 +46,11 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,cookielaw.org
+
+# digitalocean
+DOMAIN-SUFFIX,typekit.net
+DOMAIN-SUFFIX,digitalocean-ui.com
+DOMAIN-SUFFIX,digitalocean.com
 
 # proptech
 DOMAIN-SUFFIX,beds24.com
